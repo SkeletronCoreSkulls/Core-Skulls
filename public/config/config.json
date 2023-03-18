@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x4f1418c12168f1ac9d09cfbc33be6b2adc4d3eb7",
+  "SCAN_LINK": "https://scan.coredao.org/address/0x4f1418c12168f1ac9d09cfbc33be6b2adc4d3eb7",
+  "NETWORK": {
+    "NAME": "Core Blockchain",
+    "SYMBOL": "CORE",
+    "ID": 1116
+  },
+  "NFT_NAME": "Core Skulls",
+  "SYMBOL": "CS",
+  "MAX_SUPPLY": 3333,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "YoungParrot soon",
+  "MARKETPLACE_LINK": "https://app.youngparrotnft.com/core/collections/coreskulls",
+  "SHOW_BACKGROUND": true
+}
